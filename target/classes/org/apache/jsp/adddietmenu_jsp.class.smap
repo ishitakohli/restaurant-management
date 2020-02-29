@@ -1,0 +1,28 @@
+SMAP
+adddietmenu_jsp.java
+JSP
+*S JSP
+*F
++ 0 adddietmenu.jsp
+adddietmenu.jsp
++ 1 myvars.jsp
+myvars.jsp
++ 2 css.jsp
+css.jsp
++ 3 header3.jsp
+header3.jsp
+*L
+5,10:59
+5#1,4:68
+9,6:73
+14,2:79
+14#0,7:81
+1#2,11:88
+20#0,5:99
+1#3,9:104
+10,17:114
+26,65:131
+24#0,23:196
+48,121:221
+168,7:342
+*E

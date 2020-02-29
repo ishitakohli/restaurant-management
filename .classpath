@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="build/generated/src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/jar files/admin_14_28_56_2017_08_26_jar.gmail.jar"/>
+	<classpathentry kind="lib" path="build/web/jar files/admin_14_28_56_2017_08_26_JSON Fetching - Library.jar"/>
+	<classpathentry kind="lib" path="build/web/jar files/admin_17_45_25_2017_06_20_commons-fileupload-1.3.2.jar"/>
+	<classpathentry kind="lib" path="build/web/jar files/admin_17_45_25_2017_06_20_commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/admin_14_28_56_2017_08_26_jar.gmail.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/admin_14_28_56_2017_08_26_JSON Fetching - Library.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/admin_17_45_25_2017_06_20_commons-fileupload-1.3.2.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/admin_17_45_25_2017_06_20_commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="web/jar files/admin_14_28_56_2017_08_26_jar.gmail.jar"/>
+	<classpathentry kind="lib" path="web/jar files/admin_14_28_56_2017_08_26_JSON Fetching - Library.jar"/>
+	<classpathentry kind="lib" path="web/jar files/admin_17_45_25_2017_06_20_commons-fileupload-1.3.2.jar"/>
+	<classpathentry kind="lib" path="web/jar files/admin_17_45_25_2017_06_20_commons-io-2.5.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

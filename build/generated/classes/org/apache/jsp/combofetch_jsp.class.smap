@@ -1,0 +1,34 @@
+SMAP
+combofetch_jsp.java
+JSP
+*S JSP
+*F
++ 0 combofetch.jsp
+combofetch.jsp
++ 1 myvars.jsp
+myvars.jsp
++ 2 css.jsp
+css.jsp
++ 3 header3.jsp
+header3.jsp
++ 4 footer.jsp
+footer.jsp
+*L
+5,6:67
+5#1,4:72
+9,6:77
+14,2:83
+10#0,7:85
+1#2,11:92
+16#0,5:103
+1#3,9:108
+10,17:118
+26,85:135
+20#0,2:220
+22,102:223
+123,3:325
+1#4,46:328
+59,33:375
+91,83:408
+125#0,42:491
+*E
